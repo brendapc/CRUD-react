@@ -3,7 +3,7 @@ import './Nav.css'
 
 
 export default props =>
-    <nav className="nav">
+    <aside className="menu-area">
         <nav className="menu">
             <a href="/">
                 <i className="fa fa-home"></i> Início
@@ -12,4 +12,4 @@ export default props =>
                 <i className="fa fa-users"></i> Usuários   
             </a>
         </nav>
-    </nav>
+    </aside>
