@@ -1,15 +1,12 @@
 import React from 'react'
 import './Nav.css'
 
+import NavIcon from './NavIcon'
 
 export default props =>
     <aside className="menu-area">
         <nav className="menu">
-            <a href="/">
-                <i className="fa fa-home"></i> Início
-            </a>
-            <a href="/">
-                <i className="fa fa-users"></i> Usuários   
-            </a>
+            <NavIcon icon='home' title='Home'/ >
+            <NavIcon icon='users' title='Users' / >
         </nav>
     </aside>

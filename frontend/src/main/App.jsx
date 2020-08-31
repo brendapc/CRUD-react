@@ -5,17 +5,13 @@ import 'font-awesome/css/font-awesome.min.css'
 
 import Logo from '../components/templates/Logo'
 import Nav from '../components/templates/Nav'
-import Main from '../components/templates/Main'
+import Home from '../components/home/Home'
 import Footer from '../components/templates/Footer'
 
 export default props => 
     <div className="app">
         <Logo/>
         <Nav />
-        <Main icon="home" title="inicio" subtitle="a project">
-            <div className='display-4'>Bem Vindo!</div>
-            <hr />
-            <p className="mb-0"> sistema desenvolvido para exemplificar a contrução de um cadastro desenvolvido em React </p>
-        </Main>        
+        <Home />
         <Footer />
     </div>
