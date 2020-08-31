@@ -8,7 +8,7 @@ const headerProps = {
 }
 
 export default class UserCrud extends Component{
-    render(){
+    render() {
         return(
             <Main {...headerProps}>
                 cadastro de usuário
