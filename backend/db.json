@@ -1,11 +1,34 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "arthur oliveira",
-        "email": "arthur@mail.com"
-    },{
-        "id": 2,
-        "name": "ana julia",
-        "email": "julia@mail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "arthur oliveira",
+      "email": "arthur@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "ana julia",
+      "email": "julia@mail.com"
+    },
+    {
+      "name": "brenda",
+      "email": "silva",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "juliana",
+      "email": "gomes",
+      "id": 5
+    },
+    {
+      "name": "john ",
+      "email": "doe",
+      "id": 6
+    }
+  ]
 }
