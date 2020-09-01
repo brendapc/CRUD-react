@@ -2,32 +2,22 @@
   "users": [
     {
       "id": 1,
-      "name": "arthur oliveira",
+      "name": "arthur ",
       "email": "arthur@mail.com"
     },
     {
       "id": 2,
-      "name": "ana julia",
+      "name": " julia",
       "email": "julia@mail.com"
     },
     {
-      "name": "brenda",
-      "email": "silva",
-      "id": 3
-    },
-    {
-      "name": "",
-      "email": "",
-      "id": 4
-    },
-    {
       "name": "juliana",
-      "email": "gomes",
+      "email": "ju@mail.com",
       "id": 5
     },
     {
-      "name": "john ",
-      "email": "doe",
+      "name": "John",
+      "email": "Doe",
       "id": 6
     }
   ]
