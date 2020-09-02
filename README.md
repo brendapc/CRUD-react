@@ -3,7 +3,7 @@
 technologies used:
 - json-server, axios, react-router, bootstrap, font-awesome
 
-##Para executar:
+## Para executar:
 
 1.divida o terminal (no VScode ctrl+shift+5):
 2.entre nas pastas 'backend' e o 'frontend', uma em cada parte do terminal
@@ -22,4 +22,4 @@ npm i
 npm start
 ```
 
-##o frontend e o backend tem que estar em execução para o funcionamento da aplicação
+## o frontend e o backend tem que estar em execução para o funcionamento da aplicação
