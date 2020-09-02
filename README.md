@@ -7,7 +7,7 @@ technologies used:
 
 1.divida o terminal (no VScode ctrl+shift+5)
 <br>
-2.entre nas pastas 'backend' e o 'frontend', uma em cada parte do terminal
+2.entre nas pastas 'backend' e 'frontend', uma em cada parte do terminal
 ```
 cd backend 
 ```
