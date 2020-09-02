@@ -5,7 +5,8 @@ technologies used:
 
 ## Para executar:
 
-1.divida o terminal (no VScode ctrl+shift+5):
+1.divida o terminal (no VScode ctrl+shift+5)
+<br>
 2.entre nas pastas 'backend' e o 'frontend', uma em cada parte do terminal
 ```
 cd backend 
