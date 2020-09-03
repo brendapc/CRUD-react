@@ -22,6 +22,6 @@ npm i
 ```
 npm start
 ```
-#Pronto! a aplicação deve estar funcionando
+# Pronto! a aplicação deve estar funcionando
 
-##obs: o frontend e o backend tem que estar em execução para o funcionamento da aplicação
+## obs: o frontend e o backend tem que estar em execução para o funcionamento da aplicação
